@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.eacdd45b.css",
-    "main.js": "/static/js/main.57bf2128.js",
-    "static/media/work.jpg": "/static/media/work.2f0c3b31645d9c6eb117.jpg",
-    "static/media/veri.jpg": "/static/media/veri.db6094baf9695e575e9f.jpg",
-    "static/media/thx.png": "/static/media/thx.bc9a2d5b0e6268b51a1b.png",
-    "static/media/valued.png": "/static/media/valued.e76cbf1cd0b88ab288b2.png",
-    "static/media/logo.png": "/static/media/logo.d93ba3552d1adaa7b3f1.png",
-    "static/media/firstlogo.png": "/static/media/firstlogo.6ed165731a120c5b003b.png",
-    "static/media/eco.png": "/static/media/eco.973acef36cba264633a3.png",
-    "static/media/deliverypic.jpg": "/static/media/deliverypic.cd8a9e77d7941779ba90.jpg",
-    "static/media/face.png": "/static/media/face.6d74280bc822c2a18b06.png",
-    "static/media/lovedale.png": "/static/media/lovedale.0b90bc597641c5126d52.png",
-    "static/media/mira.png": "/static/media/mira.16a0304b63a0e0f3e5b2.png",
-    "static/media/idea.png": "/static/media/idea.4d042a66d98ea8c3980c.png",
-    "static/media/sneh.png": "/static/media/sneh.bf7471a8c76a706e05df.png",
-    "index.html": "/index.html",
-    "main.eacdd45b.css.map": "/static/css/main.eacdd45b.css.map",
-    "main.57bf2128.js.map": "/static/js/main.57bf2128.js.map"
+    "main.css": "/SparkleShare/static/css/main.ad457cef.css",
+    "main.js": "/SparkleShare/static/js/main.b053a934.js",
+    "static/media/work.jpg": "/SparkleShare/static/media/work.2f0c3b31645d9c6eb117.jpg",
+    "static/media/veri.jpg": "/SparkleShare/static/media/veri.db6094baf9695e575e9f.jpg",
+    "static/media/thx.png": "/SparkleShare/static/media/thx.bc9a2d5b0e6268b51a1b.png",
+    "static/media/valued.png": "/SparkleShare/static/media/valued.e76cbf1cd0b88ab288b2.png",
+    "static/media/logo.png": "/SparkleShare/static/media/logo.d93ba3552d1adaa7b3f1.png",
+    "static/media/firstlogo.png": "/SparkleShare/static/media/firstlogo.6ed165731a120c5b003b.png",
+    "static/media/eco.png": "/SparkleShare/static/media/eco.973acef36cba264633a3.png",
+    "static/media/deliverypic.jpg": "/SparkleShare/static/media/deliverypic.cd8a9e77d7941779ba90.jpg",
+    "static/media/face.png": "/SparkleShare/static/media/face.6d74280bc822c2a18b06.png",
+    "static/media/lovedale.png": "/SparkleShare/static/media/lovedale.0b90bc597641c5126d52.png",
+    "static/media/mira.png": "/SparkleShare/static/media/mira.16a0304b63a0e0f3e5b2.png",
+    "static/media/idea.png": "/SparkleShare/static/media/idea.4d042a66d98ea8c3980c.png",
+    "static/media/sneh.png": "/SparkleShare/static/media/sneh.bf7471a8c76a706e05df.png",
+    "index.html": "/SparkleShare/index.html",
+    "main.ad457cef.css.map": "/SparkleShare/static/css/main.ad457cef.css.map",
+    "main.b053a934.js.map": "/SparkleShare/static/js/main.b053a934.js.map"
   },
   "entrypoints": [
-    "static/css/main.eacdd45b.css",
-    "static/js/main.57bf2128.js"
+    "static/css/main.ad457cef.css",
+    "static/js/main.b053a934.js"
   ]
 }
